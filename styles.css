@@ -1,0 +1,15 @@
+.card {
+    margin: 25px;
+    padding: 10px;
+}
+
+h1 {
+    font-weight: bold;
+    color: purple;
+    text-align: center;
+}
+
+h6 {
+    margin: 10px;
+    font-style: italic;
+}
